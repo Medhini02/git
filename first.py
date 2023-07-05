@@ -1,4 +1,5 @@
 print("enter two numbers")
+print("hello")
 x=int(input("enter value of x:"))
 y=int(input("enter value of y:"))
 temp=x
